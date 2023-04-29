@@ -1,2 +1,2 @@
 # Roblocc-optimize
-ok
+No more drop fps when afk game !!!
