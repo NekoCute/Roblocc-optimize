@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoCute/Roblocc-optimize/main/antirender"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoCute/Roblocc-optimize/main/reducegraphics"))()
